@@ -36,3 +36,28 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## 참고 사이트
+
+### Next.js
+* [Next.js Docs](https://beta.nextjs.org/docs)
+* [Nextjs data Fetching 이해하기 (CSR, SSR, SSG, ISR)](https://www.philly.im/blog/grokking-data-fetching-in-nextjs)
+
+### TailWind
+* [Ready-to-use Tailwind CSS blocks](https://tailblocks.cc/) : 테일윈드 템플릿 사이트
+* [Top 23 best free tailwind CSS libraries (Kits) for 2023](https://medium.com/frontendweb/top-19-best-free-tailwind-css-libraries-kits-for-2023-8dfb478d4d0f)
+
+### TailWind Template
+
+#### Tailwind CSS component
+* [daisyUI components](https://daisyui.com/) : 테일윈드를 쓰기 편하게 컴포넌트화 했다.
+* [Tailwind Elements](https://tailwind-elements.com/) : 양이 많다. 
+
+### Data
+* [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) : JSON 샘플 데이터
+
+### Etc
+* [8 Amazing NextJS Libraries That Make Coding Easier](https://www.flavienbonvin.com/amazing-nextjs-libraries-that-makes-coding-easier/)
+* [SWR](https://swr.vercel.app/ko) : 데이터 가져오기를 위한 React Hooks
+* [zustand](https://github.com/pmndrs/zustand) : 작고 빠르고 확장 가능한 베어본 상태 관리 솔루션
